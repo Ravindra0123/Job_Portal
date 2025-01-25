@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@mantine/carousel": "^7.16.1",
     "@tabler/icons": "^3.29.0",
     "@tabler/icons-react": "^3.29.0",
     "@testing-library/jest-dom": "^5.17.0",
@@ -12,6 +13,7 @@
     "@types/node": "^16.18.124",
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
+    "embla-carousel-react": "^7.1.0",
     "job-portal": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
