@@ -7,7 +7,7 @@ const Header =()=>{
 
         <div className="flex gap-1 items-center text-bright-sun-400">
             <IconAnchor className="h-8 w-8" stroke={2.5} />
-            <div className="text-3xl font-semibold">SeeKJoB</div>
+            <div className="text-3xl font-semibold">SeeKJoB Ravi</div>
         </div>
         {NavLinks()}
         <div className="flex gap-3 items-center">
